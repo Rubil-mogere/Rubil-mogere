@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Rubil-mogere
-- 👀 I’m interested in ...software building
+- 👋 Hi, I’m Mogere Rubil
+- 👀 I’m interested in ...software  engineering
 - 🌱 I’m currently learning ...zetech university
-- 💞️ I’m looking to collaborate on ...software architecture
+- 💞️ I’m looking to collaborate on ...software building
 - 📫 How to reach me ...+254759261022
 
 <!---
