@@ -19,7 +19,7 @@ I'm enthusiastic about collaborating with fellow developers, designers, and inno
 
 ## Contact Me
 
-📞 Phone: +254 759 261 022
+rubilninetyfour@gmail.com 
 
 Let's connect, share ideas, and create amazing software together!
 
