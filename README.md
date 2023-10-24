@@ -3,8 +3,7 @@
 - 👀 I'm passionate about software engineering and technology.
 - 🌱 I'm currently pursuing my education at Zetech University.
 - 💞️ I'm excited about collaborating on software development projects and building innovative solutions.
-- 📫 You can reach me at: +254 759 261 022
-
+- 📫 You can reach me at:rubilninetyfour@gmail.com 
 ## About Me
 
 I am a student at Zetech University with a keen interest in software engineering and development. I believe in the power of technology to create positive change and solve complex problems. I'm constantly exploring new concepts, languages, and tools to enhance my skills and contribute meaningfully to the field.
