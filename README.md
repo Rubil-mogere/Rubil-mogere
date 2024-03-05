@@ -42,6 +42,3 @@ I thrive in collaborative environments where creativity flourishes and innovatio
 
 Let's connect, share ideas, and embark on an exciting journey of innovation and discovery!
 
---- 
-
-Feel free to adjust any part of it to better reflect your personality and experiences!
