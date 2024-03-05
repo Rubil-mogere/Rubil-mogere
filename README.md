@@ -1,4 +1,3 @@
-Absolutely, let's update that:
 
 ---
 
@@ -41,4 +40,4 @@ I thrive in collaborative environments where creativity flourishes and innovatio
 📩 Email: apexrubil@gmail.com
 
 Let's connect, share ideas, and embark on an exciting journey of innovation and discovery!
-
+_ _ _
