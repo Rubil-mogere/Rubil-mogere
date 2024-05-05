@@ -7,9 +7,6 @@
 
 I'm Apex Rubil, a seasoned software engineering enthusiast with over 4 years of experience in the industry. Armed with a Bachelor's degree in Information Technology from Zetech University, I've cultivated a strong foundation in software development and cloud computing. Throughout my career, I've demonstrated a relentless passion for learning and a drive to excel in all endeavors.
 
-## 🌱 Current Focus
-
-With over 4 years of hands-on experience, I've honed my skills in building robust and scalable software solutions. Recently certified as an AWS Cloud practitioner, I'm delving deeper into cloud computing technologies to architect scalable and resilient solutions for modern applications. Additionally, I'm continuously exploring advanced concepts in machine learning and data science to drive innovation and create meaningful impact.
 
 ## 💼 Projects Highlights
 
